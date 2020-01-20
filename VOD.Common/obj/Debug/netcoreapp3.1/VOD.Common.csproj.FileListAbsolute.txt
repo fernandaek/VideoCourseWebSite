@@ -1,0 +1,8 @@
+C:\Users\Fernanda Ek\source\repos\VideoOnDemand\VOD.Common\bin\Debug\netcoreapp3.1\VOD.Common.deps.json
+C:\Users\Fernanda Ek\source\repos\VideoOnDemand\VOD.Common\bin\Debug\netcoreapp3.1\VOD.Common.dll
+C:\Users\Fernanda Ek\source\repos\VideoOnDemand\VOD.Common\bin\Debug\netcoreapp3.1\VOD.Common.pdb
+C:\Users\Fernanda Ek\source\repos\VideoOnDemand\VOD.Common\obj\Debug\netcoreapp3.1\VOD.Common.AssemblyInfoInputs.cache
+C:\Users\Fernanda Ek\source\repos\VideoOnDemand\VOD.Common\obj\Debug\netcoreapp3.1\VOD.Common.AssemblyInfo.cs
+C:\Users\Fernanda Ek\source\repos\VideoOnDemand\VOD.Common\obj\Debug\netcoreapp3.1\VOD.Common.dll
+C:\Users\Fernanda Ek\source\repos\VideoOnDemand\VOD.Common\obj\Debug\netcoreapp3.1\VOD.Common.pdb
+C:\Users\Fernanda Ek\source\repos\VideoOnDemand\VOD.Common\obj\Debug\netcoreapp3.1\VOD.Common.csprojAssemblyReference.cache

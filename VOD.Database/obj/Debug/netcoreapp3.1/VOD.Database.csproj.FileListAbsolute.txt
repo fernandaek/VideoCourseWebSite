@@ -1,0 +1,11 @@
+C:\Users\Fernanda Ek\source\repos\VideoOnDemand\VOD.Database\bin\Debug\netcoreapp3.1\VOD.Database.deps.json
+C:\Users\Fernanda Ek\source\repos\VideoOnDemand\VOD.Database\bin\Debug\netcoreapp3.1\VOD.Database.dll
+C:\Users\Fernanda Ek\source\repos\VideoOnDemand\VOD.Database\bin\Debug\netcoreapp3.1\VOD.Database.pdb
+C:\Users\Fernanda Ek\source\repos\VideoOnDemand\VOD.Database\bin\Debug\netcoreapp3.1\VOD.Common.dll
+C:\Users\Fernanda Ek\source\repos\VideoOnDemand\VOD.Database\bin\Debug\netcoreapp3.1\VOD.Common.pdb
+C:\Users\Fernanda Ek\source\repos\VideoOnDemand\VOD.Database\obj\Debug\netcoreapp3.1\VOD.Database.csprojAssemblyReference.cache
+C:\Users\Fernanda Ek\source\repos\VideoOnDemand\VOD.Database\obj\Debug\netcoreapp3.1\VOD.Database.AssemblyInfoInputs.cache
+C:\Users\Fernanda Ek\source\repos\VideoOnDemand\VOD.Database\obj\Debug\netcoreapp3.1\VOD.Database.AssemblyInfo.cs
+C:\Users\Fernanda Ek\source\repos\VideoOnDemand\VOD.Database\obj\Debug\netcoreapp3.1\VOD.Database.csproj.CopyComplete
+C:\Users\Fernanda Ek\source\repos\VideoOnDemand\VOD.Database\obj\Debug\netcoreapp3.1\VOD.Database.dll
+C:\Users\Fernanda Ek\source\repos\VideoOnDemand\VOD.Database\obj\Debug\netcoreapp3.1\VOD.Database.pdb
